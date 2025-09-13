@@ -1,5 +1,5 @@
 
-# Codice in Python
+# Analisi quantitativa - Codice in Python
 
 Repository a supporto della tesi magistrale *“L’impatto degli ETF sulla price informativeness: evidenze quantitative e qualitative”*.  
 
