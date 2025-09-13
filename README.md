@@ -1,10 +1,9 @@
-# Misure-di-price-informativeness-e-risultati
 
-# Regressioni e misure di significatività
+# Misure di price informativeness e regressioni
 
 Repository a supporto della tesi magistrale *“L’impatto degli ETF sulla price informativeness: evidenze quantitative e qualitative”*.  
 
-Contiene il notebook Jupyter **Regressioni e misure di significatività.ipynb**, che implementa:
+Contiene i notebook Jupyter **Misure di price informativeness.ipynb** e **Regressioni e misure di significatività**, che implementano:
 - Le misure di **price informativeness** (Jump Ratio, DM, QVS)
 - Le regressioni con la **passive ownership**
 - I risultati sia per il campione completo che per i titoli illiquidi
