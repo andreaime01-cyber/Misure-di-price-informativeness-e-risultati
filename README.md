@@ -1,5 +1,5 @@
 
-# Misure di price informativeness e regressioni
+# Codice in Python
 
 Repository a supporto della tesi magistrale *“L’impatto degli ETF sulla price informativeness: evidenze quantitative e qualitative”*.  
 
